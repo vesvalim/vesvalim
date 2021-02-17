@@ -4,7 +4,7 @@
 
 [build.environment]
   HUGO_VERSION = "0.80.0"
-  HUGO_ENABLEGITINFO = "true"
+  HUGO_ENABLEGITINFO = "false"
 
 [context.production.environment]
   HUGO_ENV = "production"
@@ -14,3 +14,69 @@
 
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+
+[[redirects]]
+  from = "/post/tutkielmavinkit/"
+  to = "/fi/post/viisivinkkia"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/fi/post/tutkielmavinkit/"
+  to = "/fi/post/viisivinkkia"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/fi/blogi/tutkielmavinkit/"
+  to = "/fi/post/viisivinkkia"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/fi/blogi/omat-kotisivut/"
+  to = "/fi/post/omat-kotisivut"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/post/omat-kotisivut/"
+  to = "/fi/post/omat-kotisivut"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/fi/post/ajatusverkosto/"
+  to = "/fi/post/zettelkasten"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/fi/tag/muistiinpanot/"
+  to = "/fi/tag/muistiinpanotekniikka"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/fi/tag/tutkimusvinkit/"
+  to = "/fi/category/tutkimusvinkit/"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/tag/tutkimusvinkit/"
+  to = "/fi/category/tutkimusvinkit/"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/fi/tag/tutkimusviestinta/"
+  to = "/fi/category/tutkimusviestintä/"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/fi/tag/ajatusverkosto"
+  to = "/fi/tag/zettelkasten"
+  status = 301
+  force = false

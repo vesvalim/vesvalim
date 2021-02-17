@@ -5,16 +5,27 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
-  # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
-#[zh]
-#  languageCode = "zh-Hans"
-#  contentDir = "content/zh"
-#  title = "Chinese website title..."
-#  [zh.params]
-#    description = "Site description in Chinese..."
-#  [[zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+[fi]
+  languageCode = "fi-fi"
+  contentDir = "content/fi"
+  title = "Vesa Välimäki"
+  [fi.params]
+    description = "Tervetuloa sivuilleni. Olen nuorisotutkija ja yhteiskuntatutkimuksen väitöskirjatutkija Tampereen yliopistosta. Löydät julkaisuni ja blogini täältä."
+    
+  [[fi.menu.main]]
+    name = "Etusivu"
+    url = "#about"
+    weight = 1
+
+  [[fi.menu.main]]
+    name = "Blogi"
+    url = "#posts"
+    weight = 10
+
+  [[fi.menu.main]]
+    name = "Ota yhteyttä"
+    url = "#contact"
+    weight = 20
