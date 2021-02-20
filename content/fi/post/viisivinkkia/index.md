@@ -2,10 +2,6 @@
 title: Viisi hyödyllistä näkökulmaa tutkielman tekemiseen
 subtitle:
 
-author:
-  first_name: Vesa
-  last_name: Välimäki
-
 # Summary for listings and search engines
 summary: Tutkielman tekeminen on monille haastavin osa opintoja. Tässä tekstissä kerron viidestä hyödyllisestä näkökulmasta tutkielman kirjoittamiseen.
 
@@ -45,8 +41,6 @@ copyright_license:
   share_alike: false
   allow_commercial: true
   notice: ''
-
-toc: true
 ---
 
 Olen kevään opetusta varten miettinyt erilaisia vinkkejä onnistuneen yhteiskuntatieteellisen tutkielman tekemiseen, sillä se on osalle opiskelijoista se haastavin osa opintoja. Alla listaamani vinkit ovat enemmän näkökulmia kuin "näin sinun kuuluu tehdä" otaksumia. Niistä on ollut itselleni hyötyä omissa tutkielmissani sekä nyt väitöskirjassa, mutta jokainen löytää oman polkunsa siihen, miten toteuttaa tehokkaasti tutkielma valmiiksi.

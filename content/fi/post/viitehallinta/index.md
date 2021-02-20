@@ -2,10 +2,6 @@
 title: Viitteidenhallintaohjelma säästää aikaa
 subtitle:
 
-author:
-  first_name: Vesa
-  last_name: Välimäki
-
 # Summary for listings and search engines
 summary: Viitteidenhallintaohjelman avulla on helppo koostaa lähdeluettelo omaan käsikirjoitukseensa. Se myös auttaa oman sähköisen kirjaston luomisessa ja ylläpitämisessä.
 

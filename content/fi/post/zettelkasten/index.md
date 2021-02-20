@@ -2,10 +2,6 @@
 title: "Zettelkasten-metodi oivaltamisen työkaluna"
 subtitle:
 
-author:
-  first_name: Vesa
-  last_name: Välimäki
-
 # Summary for listings and search engines
 summary: Tässä tekstissä kerron Zettelkasten-metodista, joka on sosiologi Niklas Luhmannin kehittämä muistiinpanotekniikka produktiiviseen tutkimus- ja kirjoitustyöhön.
 
@@ -46,7 +42,6 @@ copyright_license:
   allow_commercial: true
   notice: ''
 
-toc: true
 ---
 
 Tässä tekstissä kerron omasta sovelluksestani Zettelkasten-metodista, joka on sosiologi Niklas Luhmannin kehittämä muistiinpanotekniikka produktiiviseen tutkimus- ja kirjoitustyöhön.
