@@ -41,9 +41,9 @@ tags: ["loneliness", "structural marginalisation", "social marginalisation", "ta
 # featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: eprint
+   url: https://www.tandfonline.com/eprint/TFKIBA65S5Y9YMKWWHEJ/full?target=10.1080/13676261.2019.1676884
 
 url_pdf: ''
 url_code: ''

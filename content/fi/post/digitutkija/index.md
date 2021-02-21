@@ -2,10 +2,6 @@
 title: "Tutkijan digitaalinen minimalismi"
 subtitle: 
 
-author:
-  first_name: Vesa
-  last_name: Välimäki
-
 # Summary for listings and search engines
 summary: Tutkijoille suunnattuja sosiaalisen median palveluita ja viestintäkanavia on runsaasti. Tässä tekstissä perustelen miksi valitsin niistä omaan käyttööni neljä.
 
@@ -45,9 +41,6 @@ copyright_license:
   share_alike: false
   allow_commercial: true
   notice: ''
-
-toc: false
-
 ---
 
 Tutkijoille on olemassa runsaasti erilaisia sosiaalisen median palveluita ja mahdollisuuksia viestintään. Jonkinlaista valintaa on siis syytä tehdä. Tässä tekstissä kerron, miten päädyin rajaamaan käyttööni vain tietyt palvelut.

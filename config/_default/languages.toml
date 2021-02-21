@@ -26,6 +26,11 @@
     weight = 10
 
   [[fi.menu.main]]
+    name = "Aiheet"
+    url = "#tags"
+    weight = 15
+
+  [[fi.menu.main]]
     name = "Ota yhteyttä"
     url = "#contact"
     weight = 20
