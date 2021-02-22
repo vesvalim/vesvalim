@@ -46,7 +46,7 @@ copyright_license:
 
 Teorian rooli yhteiskuntatieteellisessä tutkimuksessa on välillä sumea, joten ei ole mikään ihme, jos sen kanssa on hieman hukassa. Yhteiskuntatieteissä ei ole olemassa yhtä tiettyä suhtautumista teoriaan (teorioiden lukumäärästä puhumattakaan), joten tässä tekstissä painottuu oma näkökulmani[^1] siihen, mikä teoria on ja minkälainen on sen rooli tutkimuksessa. 
 
-Yksinkertaistan teorian roolin tekstissäni kolmeen näkökulmaan: 1) teoriaa ei pääse pakoon, 2) teoria inspiroi ja 3) teoria on pidettävä hallinnassa. Kirjoitin tämän tekstin itselleni pohjustukseksi lyhyeen luentooni[^2], jonka pidin yhteiskuntatieteellistä tutkielmaa tekeville. Olen koonnut alaviitteisiin lähteitä, joita lukemalla saa kokonaisvaltaisemman kuvan aiheesta. [Otan mielelläni vastaan](/fi/contact) kommentteja ja muuta palautetta.
+Yksinkertaistan teorian roolin tekstissäni kolmeen näkökulmaan: 1) teoriaa ei pääse pakoon, 2) teoria inspiroi ja 3) teoria on pidettävä hallinnassa. Kirjoitin tämän tekstin itselleni pohjustukseksi lyhyeen luentooni[^2], jonka pidin yhteiskuntatieteellistä tutkielmaa tekeville. Olen koonnut alaviitteisiin lähteitä, joita lukemalla saa kokonaisvaltaisemman kuvan aiheesta. Otan mielelläni vastaan kommentteja ja muuta palautetta.
 
 ## Teoriaa ei pääse pakoon
 
@@ -151,5 +151,3 @@ Joudumme yhteiskuntatieteissä kärsimään siitä, ettemme voi saada täydellis
 [^13]: Abend (2008) The Meaning of ‘Theory.’ *Sociological Theory* 26(2): 173–199.
 
 [^15]: Tämä on usein ongelma opiskelijoiden töissä. Ks. tähän liittyen Salo (2015) Simsalabim, sisällönanalyysi ja koodaamisen haasteet.
-
-[^16]: kuvat
