@@ -52,7 +52,7 @@ Yksinkertaistan teorian roolin tekstissäni kolmeen näkökulmaan: 1) teoriaa ei
 
 Olet käymässä museossa kaverisi kanssa, joka opiskelee taidehistoriaa. Pysähdytte katsomaan yhdessä taulua, joka herättää välillänne mielenkiintoista keskustelua. Keskustelun jatkuessa huomaatte kuitenkin tulkitsevanne kyseistä taulua aivan eri näkökulmista. Kun taidehistoriaa opiskeleva kaverisi osaa kiinnittää huomionsa taulun historialliseen kontekstiin, niin yhteiskuntatieteiden opiskelijana kiinnität ehkä huomiosi taulun hahmoihin ja heidän vuorovaikutukseensa. Ehkä mieleesi tulee yhteiskuntaluokka, sukupuoliroolit tai vaikkapa [Goffmanin teatterimetafora](https://youtu.be/6Z0XS-QLDWM). Joka tapauksessa tulkintanne on hyvin erilainen.
 
-{{< figure src="status.jpg" >}}
+{{< figure src="status.jpg" width="90%" >}}
 
 Tulkitsemme siis asioita eri tavalla ja tulkintaamme vaikuttaa se, minkälaisessa ympäristössä elämme ja olemme eläneet. Yhteiskuntatieteissä tästä näkökulmasta käytetään usein käsitettä *havaintojen teoriapitoisuus*. Hahmotamme maailmaa aina jollain näkökulmalla. 
 
@@ -64,7 +64,7 @@ Yhteiskuntatieteissä katsomme aineistoamme yhteiskuntatieteellisesti. Esimerkik
 
 Havaintojen teoriapitoisuus ei kuitenkaan tarkoita sitä, että kaikki olisi täysin subjektiivista. Jos näemme jossain savua, niin toki voimme esittää tälle erilaisia tulkintavaihtoehtoja, mutta *todennäköisesti* se kuitenkin viittaa palamiseen. Havaintomme kohteet onneksi laittavat tulkinnoillemme vastaan[^4]. Oman tutkimuksemme näkökulmasta tämä tarkoittaa sitä, etteivät kaikkien teorioiden mahdollistamat tulkinnat ole yhtä osuvia aineistoomme. Joudumme siis **perustelemaan**, miksi teoreettisesti välittynyt tulkintamme käyttämästämme aineistosta on mahdollisimman osuva[^5].
 
-{{< figure src="smoke.jpg" >}}
+{{< figure src="smoke.jpg" width="90%" >}}
 
 Tavoitteenamme on siten muodostaa mahdollisimman pätevä käsitys tutkimuskohteestamme. Vaikka havaintomme kohde ei sinänsä muutu, aineistomme pysyy samana, niin silti voimme valottaa sitä erilaisista näkökulmista. Meidän tulee kuitenkin muistaa, että myös muut teoriat voivat valottaa aineistostamme sen erilaisia puolia, ja joku teoria todennäköisesti osaa tehdä sen vielä meidän teoriaamme vakuuttavammin.
 
@@ -77,7 +77,7 @@ Tutkielmasi teoreettinen viitekehys auttaa hahmottamaan aineistoasi sellaisista 
 
 Sellainen yhteiskuntatieteilijä, jolla on tietämystä jo monesta erilaisesta teoriasta, pystyy todennäköisesti hahmottamaan aineistoa aloittelevaa tutkija kokonaisvaltaisemmin monesta erilaisesta näkökulmasta. Hänellä voidaan sanoa olevan enemmän *yhteiskunnallista mielikuvitusta*, koska hän osaa siirtyä hyvin näkökulmasta toiseen. C. Wright Millsin sanoin, hänen ymmärryksensä on kuin "liikkuva prisma, joka kerää valoa mahdollisimman monesta suunnasta"[^10].
 
-{{< figure src="lighthouse.jpg" >}}
+{{< figure src="lighthouse.jpg" width="90%" >}}
 
 Havainnollisesti teoriaa voikin ajatella valokeilana, joka johdattaa tutkijaa tarkastelemaan asiaa tietystä näkökulmasta. Teoria siis suuntaa valokeilamaisesti tutkimustasi johonkin suuntaan ja se inspiroi sinua näkemään aineistostasi piirteitä, joita et olisi huomannut ilman sitä. Teoria auttaa myös hahmottamaan asioita ikään kuin aineistosi taustalla. 
 
@@ -89,7 +89,7 @@ Tutkielmasi teoreettinen viitekehys on siten parhaimmillaan inspiraation lähde.
 
 Teoria on tarpeellinen ja inspiraatiota antava väline, mutta samalla vaarallinen sellainen. Majakan valokeilan metafora kuvaa hyvin sitä, miten teoria suuntaa katsettasi johonkin suuntaan. Ehkä näemme joitain asioita selvemmin, mutta samalla todennäköisesti meiltä voi jäädä huomioimatta jotain oleellista. Tässä mielessä teorian antamat linssit voivat myös sumentaa näkyvyyttämme[^6]. Meidän kykymme vakuuttaa itsemme jonkun teorian puolesta näkyy hyvin myös tänä päivänä erilaisten salaliittoteorioiden muodossa[^7]. Tutkimuksessa tarvitsemme kuitenkin teoreettiselle viitekehykselle aisat, joiden avulla hallita teoriaa.
 
-{{< figure src="aisat.jpg" >}}
+{{< figure src="aisat.jpg" width="90%" >}}
 
 Tässä vaiheessa apuun tulee työkalu nimeltä *metodi*. Tutkimuksemme aineisto ei anna mille tahansa teorialle samalla tapaa oikeutusta, vaan se onneksi osaa pätevän metodin avulla antaa ideoillemme myös vastustusta. Kykenemme näin kehittämään ideoitamme vastaamaan siihen, mitä tutkimassamme ilmiössä oikeasti tapahtuu. Hyvän metodin avulla meidän teoriavälittyneet ideat voivat osoittautua huonoiksi. Lisäksi aineisto voi nostaa esiin sellaisia näkökulmia, joita meidän käyttämä teoreettinen viitekehys ei alun perin osannut ottaa huomioon[^8].
 
