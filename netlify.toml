@@ -80,3 +80,9 @@
   to = "/fi/tag/zettelkasten"
   status = 301
   force = false
+
+[[redirects]]
+  from = "/fi/contact"
+  to = "/fi/#contact"
+  status = 301
+  force = false

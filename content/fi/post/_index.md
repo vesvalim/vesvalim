@@ -12,5 +12,12 @@ header:
   caption: ""
   image: ""
 
+copyright_license:
+  enable: true
+  allow_derivatives: true
+  share_alike: true
+  allow_commercial: true
+  notice: ''
+
 ---
 

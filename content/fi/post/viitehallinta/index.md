@@ -38,11 +38,9 @@ categories: ["tutkimusvinkit"]
 copyright_license:
   enable: true
   allow_derivatives: true
-  share_alike: false
+  share_alike: true
   allow_commercial: true
   notice: ''
-
-highlight: true
 
 ---
 
@@ -91,7 +89,6 @@ Jos en löydä julkaisusta hyvätasoista viitettä, niin seuraavaksi käytän Go
 
 Pidän Zoteron käytön mahdollisimman yksinkertaisena. En käytä kansioita enkä järjestele sitä muutenkaan. Tärkeintä Zoterossa on se, että se pitää sisällään laadukkaita lähdeviitteitä ja pdf-tiedostoja. Haluan myös, että Zoteroon tallennettuja tiedostoja voi hyödyntää siinä tapauksessa, että se ei ohjelmana jostain syystä enää toimi. Lisäksi varmuuskopioin Zoteron tietoja aktiivisesti pilvipalveluihin ja omille kiintolevyilleni.
 
-```
 Zoteron omat asetukset:
 - Rename Attachment files pois
 - Linked Attachment folder OneDrive-kansioon
@@ -105,7 +102,7 @@ ZotFile:
 - Location of files: OneDrive-kansio
 - Renaming Rules: %b (BibTeX)
 - Poista muut Renaming rules
-```
+
 ## Linkkejä
 
 - [Zoteron nettisivut](https://www.zotero.org/)

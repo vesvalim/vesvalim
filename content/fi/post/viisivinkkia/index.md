@@ -38,9 +38,10 @@ categories: ["tutkimusvinkit"]
 copyright_license:
   enable: true
   allow_derivatives: true
-  share_alike: false
+  share_alike: true
   allow_commercial: true
   notice: ''
+
 ---
 
 Olen kevään opetusta varten miettinyt erilaisia vinkkejä onnistuneen yhteiskuntatieteellisen tutkielman tekemiseen, sillä se on osalle opiskelijoista se haastavin osa opintoja. Alla listaamani vinkit ovat enemmän näkökulmia kuin "näin sinun kuuluu tehdä" otaksumia. Niistä on ollut itselleni hyötyä omissa tutkielmissani sekä nyt väitöskirjassa, mutta jokainen löytää oman polkunsa siihen, miten toteuttaa tehokkaasti tutkielma valmiiksi.

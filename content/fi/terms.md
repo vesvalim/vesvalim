@@ -14,7 +14,7 @@ header:
 
 ## Sivustoni materiaalien hyödyntämisestä
 
-Olen valinnut blogiteksteihini [CC BY 4.0 -lisenssin](https://creativecommons.org/licenses/by/4.0/deed.fi), sillä se mahdollistaa niiden kokonaisvaltaisen hyödyntämisen. Käytännössä se tarkoittaa sitä, että voit kopioida, levittää ja muunnella niitä vapaasti, jos mainitset tämän yhteydessä sivustoni asianmukaisesti, tarjoat linkin käyttämääni lisenssiin sekä kerrot tekemistäsi muutoksista. Lisää tietoa lisenssistä löydät [tästä](https://creativecommons.org/licenses/by/4.0/deed.fi).
+Olen valinnut blogiteksteihini [CC BY-SA 4.0 -lisenssin](https://creativecommons.org/licenses/by-sa/4.0/deed.fi).
 
 Yritän myös tallentaa sivustolleni julkaisuni mahdollisuuksieni mukaan, mutta valitettavasti niiden tekijänoikeudet eivät ole aina valittavissani.
 

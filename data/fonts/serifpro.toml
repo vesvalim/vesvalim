@@ -2,10 +2,10 @@
 name = "serifpro"
 
 # Optional Google font URL
-google_fonts = "family=Montserrat:wght@400;700&family=Source+Serif+Pro:wght@400;700"
+google_fonts = "family=Source+Serif+Pro:wght@400;700"
 
 # Font families
-heading_font = "Montserrat"
+heading_font = "Source Serif Pro"
 body_font = "Source Serif Pro"
-nav_font = "Montserrat"
+nav_font = "native"
 mono_font = "Source Serif Pro"

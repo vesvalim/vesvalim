@@ -38,7 +38,7 @@ categories: ["yleinen"]
 copyright_license:
   enable: true
   allow_derivatives: true
-  share_alike: false
+  share_alike: true
   allow_commercial: true
   notice: ''
 

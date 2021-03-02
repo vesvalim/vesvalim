@@ -24,4 +24,4 @@ design:
 
 ---
 
-Katso myös blogitekstien kategoriat [täältä](/fi/categories).
+Katso tekstien kategoriat [täältä](/fi/categories).
