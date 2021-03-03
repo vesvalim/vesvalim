@@ -22,4 +22,4 @@ Jos käytät materiaaliani, niin kuulen siitä mielelläni. Myös muu palaute on
 
 ## Tietosuoja
 
-En kerää yksilöllistä tietoa sivustoni kävijöistä eikä sivustoni käytä evästeitä. Sivustoni palvelimena toimii Netlify, jolla on oma [GDPR-sitoumuksensa](https://www.netlify.com/gdpr-ccpa). Olen kirjoittanut sivustoni teknisestä toteutuksesta [täällä](/fi/post/omat-kotisivut).
+En kerää yksilöllistä tietoa sivustoni kävijöistä. Sivustoni palvelimena toimii Netlify, jolla on oma [GDPR-sitoumuksensa](https://www.netlify.com/gdpr-ccpa). Kommentointimahdollisuuden tarjoaa sivulleni [*Utterances*](https://utteranc.es/), joka asettaa evästeen kun kirjaudut sivustoltani GitHub-palveluun. Voit lukea [täältä](https://github.com/utterance/utterances/blob/master/PRIVACY-POLICY.md) palvelun tietosuojalausekkeen. Olen kirjoittanut sivustoni teknisestä toteutuksesta lisää [täällä](/fi/post/omat-kotisivut).

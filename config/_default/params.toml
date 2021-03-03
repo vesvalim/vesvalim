@@ -222,8 +222,8 @@ plugins_js  = []
   #   "": Disabled
   #   "disqus": Disqus (https://disqus.com)
   #   "commento": Commento (https://commento.io)
-  #   "emailme": Send email to comment
-  provider = "emailme"
+  #   "utterances": Utterances
+  provider = "utterances"
 
   # Which page types are commentable?
   commentable = {page = false, post = true, docs = false, project = false, publication = false, talk = false}
