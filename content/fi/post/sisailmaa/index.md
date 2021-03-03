@@ -31,9 +31,9 @@ image:
 authors:
 - admin
 
-tags: ["sosiologinen mielikuvitus", "media"]
+tags: ["sosiologinen mielikuvitus", "kulttuuri"]
 
-categories: ["yleinen"]
+categories: ["sosiologia"]
 
 copyright_license:
   enable: true

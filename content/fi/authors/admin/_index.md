@@ -70,4 +70,4 @@ highlight_name: false
 
 Tervetuloa sivuilleni. Olen yhteiskuntatutkimuksen väitöskirjatutkija Tampereen yliopistosta. **Löydät julkaisuni [täältä](/#publications)** (in English). Jos haluat jonkun listalta puuttuvan julkaisun tai version sivunumeroineen, niin [ota yhteyttä](#contact).
 
-Löydät alhaalta blogini. Tallennan sinne tekstejäni julkaisuihini, esitelmiini ja opetukseeni liittyen. Otan mielelläni vastaan kommentteja ja muuta palautetta [sähköpostitse](#contact). Voit tilata blogini [RSS-syötteellä](/fi/index.xml) tai [sähköpostilla](https://feedburner.google.com/fb/a/mailverify?uri=vesavalimaki&amp;loc=en_US).
+Löydät alhaalta blogini. Otan mielelläni vastaan kommentteja ja muuta palautetta [sähköpostitse](#contact). Voit tilata blogini [RSS-syötteellä](/fi/index.xml) tai [sähköpostilla](https://feedburner.google.com/fb/a/mailverify?uri=vesavalimaki&amp;loc=en_US).
