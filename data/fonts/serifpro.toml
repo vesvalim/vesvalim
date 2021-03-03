@@ -2,7 +2,7 @@
 name = "serifpro"
 
 # Optional Google font URL
-google_fonts = "family=Source+Serif+Pro:wght@400;700"
+google_fonts = ""
 
 # Font families
 heading_font = "Source Serif Pro"
