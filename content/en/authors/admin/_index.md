@@ -27,10 +27,10 @@ interests:
 education:
   courses:
   - course: PhD candidate
-    institution: Tampere University
+    institution: Tampere University, Finland
     year: 2019–2023
   - course: Master of Social Sciences
-    institution: University of Jyväskylä
+    institution: University of Jyväskylä, Finland
     year: 2018
 
 # Social/Academic Networking
@@ -68,7 +68,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a youth sociologist at the Tampere University in Finland. In my PhD-thesis, I focus on the social marginalisation of young adults not in education or employment. I am particularly interested in studying social emotions such as shame and loneliness from a sociological perspective.
+I am a youth sociologist at the Tampere University in Finland. In my PhD-thesis, I focus on the social marginalisation of young adults not in education or employment.
 
 This is my personal website (also available [in Finnish](/fi/)). Please find my publications below (see also my [university profile page](https://www.tuni.fi/en/vesa-valimaki), [ORCID](https://orcid.org/0000-0001-8537-9686) and [Google Scholar](https://scholar.google.com/citations?user=ZaKXCGkAAAAJ)).
 
