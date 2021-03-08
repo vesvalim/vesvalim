@@ -1,5 +1,5 @@
 ---
-title: Yhteisöllinen (punasteleva) eläin
+title: Realistinen ihmiskuva
 subtitle:
 
 # Summary for listings and search engines
