@@ -12,4 +12,10 @@ weight: 130
 title: Ota yhteyttä
 subtitle:
 
+content:
+  form:
+    provider: netlify
+    netlify:
+      captcha: false
+
 ---

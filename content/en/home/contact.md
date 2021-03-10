@@ -12,4 +12,10 @@ weight: 130
 title: Contact
 subtitle:
 
+content:
+  form:
+    provider: netlify
+    netlify:
+      captcha: false
+
 ---
