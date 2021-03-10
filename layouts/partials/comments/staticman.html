@@ -1,6 +1,5 @@
 <section class="staticman-comments post-comments">
         <h3>Kommentit</h3>
-
         {{ $comments := readDir "data/comments" }}
         {{ $.Scratch.Add "hasComments" 0 }}
         {{ $postSlug := .File.ContentBaseName }}
@@ -14,7 +13,7 @@
                     <span class="post-comment-name">{{ .name }}</span>
                     <br>
                     <a href="#commentid-{{ ._id }}" title="Permalink to this comment">
-                      <time class="post-time">{{ dateFormat "Monday, Jan 2, 2006" .date }}</time>
+                      <time class="post-time">{{ dateFormat "2.1.2006 klo 15:04 UTC" .date }}</time>
                     </a>
                   </p>
                 </div>
@@ -25,7 +24,7 @@
         {{ end }}
         {{ $canLeaveComment := (not (or site.Params.disable_comments (eq .Page.Params.comments false))) }}
         {{ if and (eq ($.Scratch.Get "hasComments") 0) $canLeaveComment }}
-          <p>Jätä ensimmäinen kommentti.</p>
+          <p>Ei kommentteja</p>
         {{ else if not $canLeaveComment }}
           <br>
           <p>Submission of new comments has been disabled for this post.</p>
@@ -44,14 +43,14 @@
             <input type="hidden" name="fields[postName]" value="{{ .File.ContentBaseName }}"/>          
             <input type="text" name="fields[name]" class="post-comment-field" placeholder="Nimi tai nimimerkki *" required/>         
             <input type="address" name="fields[botpot]" placeholder="botpot (do not fill!)" style="display: none"></textarea>          
-            <textarea name="fields[comment]" class="post-comment-field" placeholder="Kommentti *" required rows="10"></textarea>
+            <textarea name="fields[comment]" class="post-comment-field" placeholder="Kommentti *" required rows="5"></textarea>
             <input type="submit" class="post-comment-field btn btn-primary comment-buttons" value="Lähetä">
           </form>
         </section>
 
         <div id="comment-submitted" class="dialog">
           <h3>Kiitos kommentista!</h3>
-          <p>Kommenttisi lähetettiin ja on nyt tarkistettavana.</p>
+          <p>Kommentti lähetettiin tarkistettavaksi.</p>
           <p><a href="#" class="btn btn-primary comment-buttons ok">OK</a></p>
         </div>
 
