@@ -178,7 +178,7 @@ abstract_length = 135
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
-plugins_js  = []
+plugins_js  = ["applause-button"]
 
 # Avatars.
 # An avatar is an image that appears next to a user's name.
@@ -223,7 +223,7 @@ plugins_js  = []
   #   "disqus": Disqus (https://disqus.com)
   #   "commento": Commento (https://commento.io)
   #   "utterances": Utterances (https://utteranc.es/)
-  provider = "utterances"
+  provider = "staticman"
 
   # Which page types are commentable?
   commentable = {page = false, post = true, docs = false, project = false, publication = false, talk = false}
@@ -237,6 +237,12 @@ plugins_js  = []
   [comments.commento]
     # If self-hosting Commento, enter its URL here (e.g. "https://commento.?.com"), otherwise leave empty.
     url = ""
+
+  [staticman]
+  endpoint = "https://staattinenmies.herokuapp.com/v3/entry/github"
+  username = "vesvalim"
+  repository = "vesvalim"
+  branch = "master"
 
 ############################
 ## Search

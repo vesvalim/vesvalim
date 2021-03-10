@@ -1,3 +1,33 @@
+/*************************************************
+ *  Applause
+ **************************************************/	
+ 
+ applause-button{position:relative;cursor:pointer}
+ applause-button .style-root{position:absolute;top:0;left:0;right:0;bottom:0}
+ applause-button .style-root:after{position:absolute;top:0;left:0;right:0;bottom:0;content:" ";display:block;border-radius:50%;border:1px solid}
+ applause-button .style-root:hover:after:not(.clap-limit-exceeded){border-color:inherit}
+ applause-button.loading{opacity:0.5}
+ applause-button .shockwave{position:absolute;top:0;left:0;right:0;bottom:0;border-radius:50%}
+ applause-button svg{position:absolute;width:60%;height:60%;margin-left:20%;margin-top:20%;position:absolute;top:0;left:0;right:0;bottom:0;opacity:0.8;stroke:none;overflow:visible !important}
+ applause-button svg g.flat{visibility:hidden}
+ applause-button svg g.outline{visibility:visible}
+ applause-button.clap-limit-exceeded{cursor:inherit}
+ applause-button.clap-limit-exceeded div{fill:gray !important;stroke:gray !important;color:gray !important}
+ applause-button.clapped svg g.flat{visibility:visible}
+ applause-button.clapped svg g.outline{visibility:hidden}
+ applause-button .count-container{position:absolute;right:-75%;top:30%;width:100%;color:gray;user-select:none}
+ applause-button .count-container .count{font-size: 1.0rem; color: #555555;text-align:center}
+ applause-button g.sparkle circle{opacity:0;stroke-width:0}
+ applause-button g.sparkle g:nth-child(1){transform:rotate(0deg) translateX(10px)}
+ applause-button g.sparkle g:nth-child(2){transform:rotate(72deg) translateX(10px)}
+ applause-button g.sparkle g:nth-child(3){transform:rotate(144deg) translateX(10px)}
+ applause-button g.sparkle g:nth-child(4){transform:rotate(216deg) translateX(10px)}
+ applause-button g.sparkle g:nth-child(5){transform:rotate(288deg) translateX(10px)}
+ applause-button:hover:not(.clapped) .shockwave{animation-name:shockwave;animation-duration:1s;animation-iteration-count:infinite;animation-timing-function:ease-in}
+ applause-button.clap{animation-name:pulse;animation-duration:0.5s;animation-iteration-count:1}
+ applause-button.clap .sparkle circle{animation-name:explode;animation-duration:0.5s;animation-iteration-count:1}
+ applause-button.clap .count{animation-name:hideThenShow;animation-duration:0.5s;animation-iteration-count:1}@keyframes explode{0%{transform:translateX(10px);opacity:0}20%{opacity:1}50%{opacity:1}100%{opacity:0;transform:translateX(25px)}}@keyframes shockwave{0%{transform:scale(1);box-shadow:0 0 2px;opacity:1}100%{transform:scale(1);opacity:0;box-shadow:0 0 50px, inset 0 0 10px}}@keyframes pulse{0%{transform:scale(1)}50%{transform:scale(1.1)}100%{transform:scale(1)}}@keyframes hideThenShow{0%{opacity:1;transform:translateY(0)}20%{opacity:0;transform:translateY(-10px)}50%{transform:translateY(10px)}80%{transform:translateY(10px);opacity:0}100%{opacity:1;transform:translateY(0)}}
+
 /* source-serif-pro-regular - latin */
 @font-face {
     font-family: 'Source Serif Pro';
@@ -17,4 +47,101 @@
          url('/fonts/source-serif-pro-v10-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
          url('/fonts/source-serif-pro-v10-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
+
+/* Staticman comment section and form */
+
+.post-comments {
+     margin-top: 60px;
+  }
+  
+  .post-comment {
+     background-color: rgb(247, 247, 247);
+     padding: 20px;
+     margin-top: 20px;
+  }
+  
+  .post-comment-header {
+     margin-bottom: 20px;
+  }
+  
+  .post-comment-avatar {
+     display: inline-block;
+     vertical-align: middle;
+     border-radius: 50%;
+  }
+  
+  .post-comment-info {
+     display: inline-block;
+     margin-left: 20px;
+     margin-bottom: 0;
+     vertical-align: middle;
+  }
+  
+  /* Part of blog subscription also */
+  .post-comment-field, .post-blogsubscriber-btn {
+     display: block;
+     font: inherit;
+     padding: 10px;
+     margin-top: 20px;
+     outline-color: #9b6bcc;
+     width: 100%;
+  }
+  
+  .btn-primary.comment-buttons {
+     background: #9b6bcc !important;
+     border-color: #9b6bcc !important;
+     font-size: 0.9rem;
+     padding: 10px 14px 9px;
+     border-radius: 6px;
+  }
+  
+  .btn-primary.comment-buttons:hover {
+     background: #53237f !important;
+  }
+  
+  .post-comment-info .post-comment-name {
+     font-size: 1.4rem;
+     font-weight: 500;
+  
+  }
+  
+  .post-comment-info .post-time {
+     font-size: 14px;
+     font-weight: normal;
+     letter-spacing: 0.03em;
+     color: #888;
+  
+  }
+  
+  .post-comment-info .post-time:hover {
+     color: #9b6bcc;
+  }
+  
+  
+  /* End staticman comment section and form */
+  
+  /* Staticman comment submission confirmation dialog */
+  
+  .dialog {
+     display: none;
+     position: fixed;
+     background-color: rgb(247, 247, 247);
+     padding: 25px;
+     padding-top: 20%;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+     text-align: center;
+  }
+  
+  .dialog:target {
+     display: block;
+  }
+  
+  .dialog .btn-primary.comment-buttons.ok {
+     width: 7rem;
+  }
+  
+  /* End staticman comment submission confirmation dialog */
   
