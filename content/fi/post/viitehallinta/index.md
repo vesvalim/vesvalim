@@ -96,7 +96,7 @@ Zoteron omat asetukset:
 Better BibTeX:
 - [auth:lower][veryshorttitle1_0][year]
 - Unique: across all libraries
-- Automaattisesti päivittyvä .bib-tiedosto varmuuskopiona.
+- Automaattisesti päivittyvä .bib-tiedosto varmuuskopiona: 1) Klikkaa koko kirjastosi (My Library), 2) Export Library, 3) Format: Better BibTeX ja Keep updated. Näin lähdeviitteesi pysyvät aina tallessa myös Zoteron kaatuessa ja voit hyödyntää tätä .bib tiedostoa raakatekstillä kirjoittaessa (ks. [The Plain Person’s Guide to Plain Text Social Science](https://plain-text.co/)).
 
 ZotFile:
 - Location of files: OneDrive-kansio
