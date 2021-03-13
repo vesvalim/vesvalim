@@ -22,4 +22,4 @@ Jos käytät materiaaliani, niin kuulen siitä mielelläni. Myös muu palaute on
 
 ## Tietosuoja
 
-En kerää yksilöllistä tietoa sivustoni kävijöistä. Sivustoni palvelimena toimii Netlify, jolla on oma [GDPR-sitoumuksensa](https://www.netlify.com/gdpr-ccpa). Käyttäjätilastot tulevat sivuston käyttäjien yksityisyyttä kunnioittavan [Plausiblen](https://plausible.io/) (ks. [data policy](https://plausible.io/data-policy)) kautta. Olen kirjoittanut sivustoni teknisestä toteutuksesta lisää [täällä](/fi/post/omat-kotisivut).
+En kerää yksilöllistä tietoa sivustoni kävijöistä. Sivustoni palvelimena toimii Netlify, jolla on oma [GDPR-sitoumuksensa](https://www.netlify.com/gdpr-ccpa). Olen kirjoittanut sivustoni teknisestä toteutuksesta lisää [täällä](/fi/post/omat-kotisivut).
