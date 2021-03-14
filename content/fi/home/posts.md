@@ -39,3 +39,7 @@ design:
   #   4 = Citation (publication only)
   view: 1
 ---
+
+{{% callout note %}}
+Julkaisuni löydät [tästä linkistä](/#publications). Blogini sisältää kirjoituksia sosiologiasta ja sosiaalisuudesta sekä vinkkejä tutkimuksen tekemiseen.
+{{% /callout %}}

@@ -68,6 +68,6 @@ email: ""
 highlight_name: false
 ---
 
-Tervetuloa sivuilleni. Olen yhteiskuntatutkimuksen väitöskirjatutkija Tampereen yliopistosta. **Löydät julkaisuni [täältä](/#publications)** (in English). Jos haluat jonkun listalta puuttuvan julkaisun tai version sivunumeroineen, niin [ota yhteyttä](#contact).
+Tervetuloa sivuilleni. Olen yhteiskuntatutkimuksen väitöskirjatutkija Tampereen yliopistosta. Väitöskirjani käsittelee työn ja koulutuksen ulkopuolella olevien nuorten aikuisten sosiaalisia suhteita. Olen erityisesti kiinnostunut yksinäisyyden ja häpeän kokemuksista. Voit tarkastella julkaisujani [englanninkielisellä sivustollani](/#publications).
 
-Löydät alhaalta blogini. Otan mielelläni vastaan kommentteja ja muuta palautetta. Voit tilata blogini postaukset [RSS-syötelukijaasi](/fi/index.xml) tai [sähköpostiisi](https://feedburner.google.com/fb/a/mailverify?uri=vesavalimaki).
+Löydät alhaalta blogini. Otan mielelläni vastaan kommentteja kirjoituksistani. Voit tilata blogini kirjoitukset suoraan [RSS-syötelukijaasi](/fi/index.xml) tai [sähköpostiisi](https://feedburner.google.com/fb/a/mailverify?uri=vesavalimaki).
