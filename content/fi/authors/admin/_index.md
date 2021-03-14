@@ -70,4 +70,4 @@ highlight_name: false
 
 Tervetuloa sivuilleni. Olen yhteiskuntatutkimuksen väitöskirjatutkija Tampereen yliopistosta. Väitöskirjani käsittelee työn ja koulutuksen ulkopuolella olevien nuorten aikuisten sosiaalisia suhteita. Olen erityisesti kiinnostunut yksinäisyyden ja häpeän kokemuksista. Voit tarkastella julkaisujani [englanninkielisellä sivustollani](/#publications).
 
-Löydät alhaalta blogini. Otan mielelläni vastaan kommentteja kirjoituksistani. Voit tilata blogini kirjoitukset suoraan [RSS-syötelukijaasi](/fi/index.xml) tai [sähköpostiisi](https://feedburner.google.com/fb/a/mailverify?uri=vesavalimaki).
+Löydät alhaalta blogini. Blogini sisältää kirjoituksia sosiologiasta ja sosiaalisuudesta sekä ajatuksia tutkimusmaailmasta. Otan mielelläni vastaan kommentteja kirjoituksistani. Voit tilata blogini kirjoitukset suoraan [RSS-syötelukijaasi](/fi/index.xml) tai [sähköpostiisi](https://feedburner.google.com/fb/a/mailverify?uri=vesavalimaki).

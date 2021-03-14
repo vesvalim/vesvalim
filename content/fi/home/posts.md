@@ -41,5 +41,5 @@ design:
 ---
 
 {{% callout note %}}
-Julkaisuni löydät [tästä linkistä](/#publications). Blogini sisältää kirjoituksia sosiologiasta ja sosiaalisuudesta sekä vinkkejä tutkimuksen tekemiseen.
+Julkaisuni löydät [tästä linkistä](/#publications).
 {{% /callout %}}
